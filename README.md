@@ -1,4 +1,4 @@
-# ideal-broccoli
+# Prácticas de Python
 
 
-Exercises from the book "Learn Python the hard way".
+Ejercicios del libro "Aprenda a programar con Python 3" o sacados de internet.
